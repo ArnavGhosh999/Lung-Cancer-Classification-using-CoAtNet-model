@@ -1,1 +1,1 @@
-# Cancer-classification-using-QVAE
+# Cancer classification
